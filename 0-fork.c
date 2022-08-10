@@ -22,5 +22,5 @@ int main(void)
 		my_pid = getpid();
 		printf("My pid is %u\n", my_pid);
 	}
-	return 0;
+	return (0);
 }
